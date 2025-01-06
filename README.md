@@ -1,6 +1,7 @@
-# Hey there!
+# Sudeeksha Vandrangi
+### 👩‍💻 Data Scientist | Problem-Solver
 
-👩‍💻 Data Scientist | Problem-Solver
+
 I’m Sudeeksha, a passionate data scientist driven by curiosity, impact, and innovation. With hands-on experience in cutting-edge technologies, I specialize in delivering data-driven solutions that make a difference.
 
 ✨ What I Do Best:
